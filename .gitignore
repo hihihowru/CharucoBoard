@@ -1,0 +1,56 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+bin/
+lib/
+
+ubuntu-xenial/
+ubuntu-xenial-hwe/
+
+# Docs
+doc/doxygen/html/
+*.html.lnk
+
+# CMake
+build*/
+connectivity_check
+
+*~
+*.a
+*.o
+*.so
+*.pyc
+*.class
+
+local_ignore/
+
